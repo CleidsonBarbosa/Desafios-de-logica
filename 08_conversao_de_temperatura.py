@@ -3,3 +3,4 @@ Para sua surpresa o termômetro estava em Fahrenheit.
 Desenvolva um sistema que recebe a temperatura em Fahrenheit e responda a quantos graus equivale em Celsius.
 Fórmula de conversão: ºC = (ºF-32)/1.8
 '''
+print('')
